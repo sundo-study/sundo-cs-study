@@ -43,7 +43,8 @@
 - 빅 엔디안
     - 낮은 번지의 주소에 상위 바이트부터 저장하는 방식
         
-        ![{4E06644B-6822-4559-842F-B1DF919B4D44}.png](attachment:7607f146-87d4-4d7d-8d5a-133e277574cb:4E06644B-6822-4559-842F-B1DF919B4D44.png)
+        ![image](https://github.com/user-attachments/assets/e79bc1c2-2c94-4aa4-85a9-dbf02f1d1144)
+
         
     - 장점
         - 메모리 값을 직접 읽거나 디버깅에 편함
