@@ -51,7 +51,8 @@
 - 리틀 엔디안
     - 낮은 번지의 주소에 하위 바이트부터 저장하는 방식
         
-        ![{8A704B47-87B2-4852-8EF5-C93DD71D8381}.png](attachment:2054271e-affe-44ff-b8fc-c706733318b8:8A704B47-87B2-4852-8EF5-C93DD71D8381.png)
+        ![image](https://github.com/user-attachments/assets/ed286d99-f657-40b5-8cbd-c6763e9fea91)
+
         
     - 장점
         - 수치 계산이 편리함
@@ -75,7 +76,8 @@
             - L1I 캐시 : 명령어만을 저장
             - L1D 캐시 : 데이터만을 저장
             
-            ![image.png](attachment:0fe2b96c-4f91-4ffb-8f63-c522d4639fe7:image.png)
+            ![image](https://github.com/user-attachments/assets/47fb055f-3002-4111-9686-3428d533bfab)
+
             
 
 - 캐시 히트와 캐시 미스
